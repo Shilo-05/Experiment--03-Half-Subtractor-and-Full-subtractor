@@ -57,8 +57,11 @@ Diff = A ⊕ B ⊕ C B = A'C + A'B + BC
 
 
 ## Program:
+### Half Subractor:
 
 ![image](https://github.com/Shilo-05/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139841664/819a9736-1a09-4fa1-97c0-0697f0da33ad)
+
+### Full Subractor:
 
 ![image](https://github.com/Shilo-05/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/139841664/21831b34-5ab2-488a-9896-f35c284ba51a)
 
